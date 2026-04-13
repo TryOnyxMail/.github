@@ -19,7 +19,7 @@ Onyx Mail is a modern email client built with Next.js, designed to provide a sea
 - Integration with popular email services (Gmail, Outlook, Yahoo, etc.) - Coming Soon!
 
 ## Email Server
-OnyxMail uses (ByteSend)[https://bytesend.cloud/] as it's email server, they provide a secure and reliable email service that ensures your emails are delivered efficiently. With ByteSend, you can trust that your emails will reach their destination without any issues. Email infrastructure that just works, so you can focus on what matters most - your communication.
+OnyxMail uses [ByteSend](https://bytesend.cloud/) as its email server, they provide a secure and reliable email service that ensures your emails are delivered efficiently. With ByteSend, you can trust that your emails will reach their destination without any issues. Email infrastructure that just works, so you can focus on what matters most - your communication.
 
 ## Development
 Development of Onyx Mail is ongoing, and we are continuously working to add new features and improve the user experience. Stay tuned for updates and new releases!
