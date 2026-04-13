@@ -1,24 +1,25 @@
-### Hi there 👋, We're The Boring Global.
-> We're holdings company that is ran by two goofy people who like to build and improve on the foundation of the never ending internet.
+# Onyx Mail
 
-- 🔭 We love working on and delivering open-source projects 
-- 🌱 Always learning new Technologies
-- 🏗 We're driven by our adhd and autism and dedication
+Onyx Mail is a modern email client built with Next.js, designed to provide a seamless and efficient email experience. It offers a clean and intuitive interface, allowing users to manage their emails with ease. With features like real-time updates, customizable themes, and advanced search capabilities, Onyx Mail aims to enhance productivity and simplify email management for users of all levels. Whether you're a casual user or a power user, Onyx Mail is the perfect solution for your email needs.
 
-## Our Links
-- **Website**: [boring.global](https://boring.global)
-- **Twitter**: [@boringlobal](https://twitter.com/boringlobal)
+## Features
+- Real-time email updates
+- Customizable themes
+- Advanced search capabilities
+- User-friendly interface
+- Cross-platform support
+- Secure and private email management
+- Custom Domain Support
+- Customizable Email Signatures
+- Email Filtering and Organization
+- Folder & Label Management
+- Email Scheduling
+- Email Templates
+- Multi-language Support
+- Integration with popular email services (Gmail, Outlook, Yahoo, etc.) - Coming Soon!
 
-## Our Subsidiaries
-- **Vultrex Development**
-  - Website: [vultrex.dev](https://vultrex.dev)
-  - GitHub: [github.com/vultrex](https://github.com/vultrex)
-  - Discord: [Join Vultrex Discord](https://discord.gg/aaaaaaaaaa)
-- **MarvelixBot**: [marvelixbot.com](https://marvelixbot.com)
-- **Sharebybit**: [sharebybit.com](https://sharebybit.com)
+## Email Server
+OnyxMail uses (ByteSend)[https://bytesend.cloud/] as it's email server, they provide a secure and reliable email service that ensures your emails are delivered efficiently. With ByteSend, you can trust that your emails will reach their destination without any issues. Email infrastructure that just works, so you can focus on what matters most - your communication.
 
-## Contact Us
-- **General Enquiries**: [hello@boring.global](mailto:hello@boring.global)
-- **Legal Enquiries** (DMCA, Legal requests): [legal@boring.global](mailto:legal@boring.global)
-- **Network** (Abuse Reports): [reports@boring.global](mailto:reports@boring.global)
-- **Vultrex Enquiries**: [vultrex@boring.global](mailto:vultrex@boring.global)
+## Development
+Development of Onyx Mail is ongoing, and we are continuously working to add new features and improve the user experience. Stay tuned for updates and new releases!
