@@ -1,5 +1,4 @@
 # Onyx Mail
-
 Onyx Mail is a modern email client built with Next.js, designed to provide a seamless and efficient email experience. It offers a clean and intuitive interface, allowing users to manage their emails with ease. With features like real-time updates, customizable themes, and advanced search capabilities, Onyx Mail aims to enhance productivity and simplify email management for users of all levels. Whether you're a casual user or a power user, Onyx Mail is the perfect solution for your email needs.
 
 ## Features
